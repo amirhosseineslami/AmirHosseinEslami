@@ -4,7 +4,7 @@ My name is Amir Hossein Eslami
 Developer
 -----------------------------
 
-*   🖥️  See my portfolio at [](https://about.me/amirhosseineslami)
+*   🖥️  See my portfolio at [about.me](https://about.me/amirhosseineslami)
 *   🤝  I'm open to collaborating on interesting projects as android developer
                   
 ### Skills
