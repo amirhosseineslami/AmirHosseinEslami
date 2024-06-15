@@ -5,7 +5,7 @@ Developer
 -----------------------------
 
 *   🖥️  See my portfolio at [about.me](https://about.me/amirhosseineslami)
-*   🤝  I'm open to collaborating on interesting projects as android developer
+*   🤝  I'm open to collaborating on interesting projects as an AI developer
                   
 ### Skills
 <p align="left">
