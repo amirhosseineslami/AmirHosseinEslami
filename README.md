@@ -1,13 +1,13 @@
-# Amir Hossein Eslami
+# AmirHossein Eslami
 ### Developer | AI Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-About.me-blue)](https://about.me/amirhosseineslami)
 [![GitHub](https://img.shields.io/badge/GitHub-amirhosseineslami-181717?logo=github)](https://github.com/amirhosseineslami)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amir%20Hossein%20Eslami-blue?logo=linkedin)](https://www.linkedin.com/in/amir-hossein-eslami)
-[![Instagram](https://img.shields.io/badge/Instagram-@ilestAmir-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ilestAmir)
+[![Instagram](https://img.shields.io/badge/Instagram-@ilestAmir-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/Amir_EslamL)
 
 ## 🚀 About Me
-👋 Hi, I'm **Amir Hossein Eslami**, a passionate developer with expertise in AI and software development. I'm always open to collaborating on **interesting AI projects**.
+👋 Hi, I'm **AmirHossein Eslami**, a passionate developer with expertise in AI and software development. I'm always open to collaborating on **interesting AI projects**.
 
 ---
 
