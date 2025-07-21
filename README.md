@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-About.me-blue)](https://about.me/amirhosseineslami)
 [![GitHub](https://img.shields.io/badge/GitHub-amirhosseineslami-181717?logo=github)](https://github.com/amirhosseineslami)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amir%20Hossein%20Eslami-blue?logo=linkedin)](https://www.linkedin.com/in/amir-hossein-eslami)
-[![Instagram](https://img.shields.io/badge/Instagram-@ilestAmir-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/Amir_EslamL)
+[![Instagram](https://img.shields.io/badge/Instagram-@AmirHEslamy-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/AmirHEslamy)
 
 ---
 
@@ -44,7 +44,7 @@ I enjoy solving real-world problems using a mix of **programming, data analysis,
 ## 📬 Contact
 
 I’m always open to research collaborations, internships, or project opportunities. Feel free to reach out:  
-📧 **amirhossein.eslami.ac@gmail.com**
+📧 **amirhossein.eslami.ac@gmail.com**  
+💬 **Skype**: Amirhossein Eslami (ID: `live:.cid.996712dc2142630a`)
 
 ---
-
