@@ -1,23 +1,33 @@
 # AmirHossein Eslami
-### Developer | AI Enthusiast
+### B.Sc. Candidate in Electrical & Control Engineering | AI & Geospatial Data Enthusiast | Research Assistant @ Mazrae
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-About.me-blue)](https://about.me/amirhosseineslami)
 [![GitHub](https://img.shields.io/badge/GitHub-amirhosseineslami-181717?logo=github)](https://github.com/amirhosseineslami)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amir%20Hossein%20Eslami-blue?logo=linkedin)](https://www.linkedin.com/in/amir-hossein-eslami)
 [![Instagram](https://img.shields.io/badge/Instagram-@ilestAmir-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/Amir_EslamL)
 
+---
+
 ## 🚀 About Me
-👋 Hi, I'm **AmirHossein Eslami**, a passionate developer with expertise in AI and software development. I'm always open to collaborating on **interesting AI projects**.
+
+👋 Hi! I'm **AmirHossein Eslami**, an undergraduate student in **Control Engineering** at Iran University of Science and Technology (IUST). I'm passionate about applying **AI, geospatial data**, and **automation** to solve real-world challenges in agriculture, robotics, and control systems.
+
+I’m currently working as a **Research & Data Assistant** at [Mazrae](https://mazraeapp.com), where I build tools for smart agriculture — including web scraping, geospatial data processing, and machine learning support using **ArcGIS** and **Google Earth Engine**.
+
+I'm always eager to collaborate on AI-driven, control-based, or geospatial-focused projects.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
-<p align="left">
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-  <a href="https://java.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-</p>
+**Languages & Programming**  
+`Python` · `C++` · `Java` · `Kotlin` · `MATLAB` · `HTML/CSS`
+
+**Technologies & Frameworks**  
+`ArcMap / ArcGIS` · `Google Earth Engine` · `Git / GitHub` · `Scikit-learn` · `NumPy / Pandas` · `Selenium` · `OpenCV`
+
+**Areas of Interest**  
+`Control Systems` · `Machine Learning` · `Geospatial Analysis` · `Smart Agriculture` · `Remote Sensing` · `Automation`
 
 ---
 
@@ -33,5 +43,9 @@
 
 ---
 
-## 🌍 Connect with Me
-📫 Feel free to reach out! Let's build something awesome together.
+## 🌍 Let’s Connect!
+
+📫 Feel free to reach out if you’d like to collaborate on research, engineering projects, or AI applications:  
+📧 **amirhossein.eslami.ac@gmail.com**
+
+---
