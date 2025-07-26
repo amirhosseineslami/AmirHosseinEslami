@@ -1,16 +1,16 @@
-# AmirHossein Eslami  
+# Amirhossein Eslami  
 ### Electrical & Control Engineering Student | Research-Oriented | Passionate About Data, Systems, and Intelligent Technologies
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-About.me-blue)](https://about.me/amirhosseineslami)
 [![GitHub](https://img.shields.io/badge/GitHub-amirhosseineslami-181717?logo=github)](https://github.com/amirhosseineslami)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amir%20Hossein%20Eslami-blue?logo=linkedin)](https://www.linkedin.com/in/amir-hossein-eslami)
-[![Instagram](https://img.shields.io/badge/Instagram-@AmirHEslamy-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/AmirHEslamy)
+[![Instagram](https://img.shields.io/badge/Instagram-@AmirHEslamy-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/AmirhEslamy)
 
 ---
 
 ## 🚀 About Me
 
-Hi! I’m **AmirHossein Eslami**, a senior **B.Sc. student in Electrical and Control Engineering** at **Iran University of Science and Technology (IUST)**. I’m passionate about bridging **engineering, data, and intelligent technologies** to solve real-world problems.
+Hi! I’m **Amirhossein Eslami**, a senior **B.Sc. student in Electrical and Control Engineering** at **Iran University of Science and Technology (IUST)**. I’m passionate about bridging **engineering, data, and intelligent technologies** to solve real-world problems.
 
 I currently work as a **Research & Data Assistant** at **Lotus Futurists**, where I contribute to smart agriculture technologies. My role includes **web scraping**, **geospatial data processing**, and supporting **ML pipelines** for environmental and agricultural analysis using tools like **Selenium**, **BeautifulSoup**, **ArcGIS**, and **Google Earth Engine**.
 
